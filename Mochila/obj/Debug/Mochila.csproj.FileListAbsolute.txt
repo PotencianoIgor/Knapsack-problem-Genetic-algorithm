@@ -1,0 +1,8 @@
+c:\users\igor\documents\visual studio 2017\Projects\Mochila\Mochila\bin\Debug\Mochila.exe.config
+c:\users\igor\documents\visual studio 2017\Projects\Mochila\Mochila\bin\Debug\Mochila.exe
+c:\users\igor\documents\visual studio 2017\Projects\Mochila\Mochila\bin\Debug\Mochila.pdb
+c:\users\igor\documents\visual studio 2017\Projects\Mochila\Mochila\obj\Debug\Mochila.Form1.resources
+c:\users\igor\documents\visual studio 2017\Projects\Mochila\Mochila\obj\Debug\Mochila.Properties.Resources.resources
+c:\users\igor\documents\visual studio 2017\Projects\Mochila\Mochila\obj\Debug\Mochila.csproj.GenerateResource.Cache
+c:\users\igor\documents\visual studio 2017\Projects\Mochila\Mochila\obj\Debug\Mochila.exe
+c:\users\igor\documents\visual studio 2017\Projects\Mochila\Mochila\obj\Debug\Mochila.pdb
